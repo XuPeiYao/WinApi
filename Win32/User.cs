@@ -18,6 +18,8 @@ using System.Text;
 
 namespace RobertLw.Win32
 {
+    public delegate bool EnumWindowsProc(IntPtr hwnd, int lParam);
+
     // ReSharper disable InconsistentNaming
     public struct CBTACTIVATESTRUCT
     {
@@ -2528,6 +2530,9 @@ namespace RobertLw.Win32
 
         [DllImport("user32")]
         public static extern int EnumWindows(int lpEnumFunc, int lParam);
+
+        [DllImport("user32")]
+        public static extern int EnumWindows(EnumWindowsProc lpEnumFunc, int lParam);
 
         [DllImport("user32")]
         public static extern int EqualRect(ref RECT lpRect1, ref RECT lpRect2);
