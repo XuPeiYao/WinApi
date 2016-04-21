@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinApi", "WinApi\WinApi.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobertLw.Win32", "Win32\RobertLw.Win32.csproj", "{3B431B61-880A-446A-A6B6-441D69FB317E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{3160C391-107A-4031-B2B1-150A87BA3214}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3B431B61-880A-446A-A6B6-441D69FB317E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B431B61-880A-446A-A6B6-441D69FB317E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B431B61-880A-446A-A6B6-441D69FB317E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3160C391-107A-4031-B2B1-150A87BA3214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3160C391-107A-4031-B2B1-150A87BA3214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3160C391-107A-4031-B2B1-150A87BA3214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3160C391-107A-4031-B2B1-150A87BA3214}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

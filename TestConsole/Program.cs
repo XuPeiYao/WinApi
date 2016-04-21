@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace TestConsole {
     class Program {
         static void Main(string[] args) {
-            var ws = WinApi.User.Window.GetWindows();
+            var ws = WinApi.User.Window.GetWindows(true).Where(x=>x.ClassName?.Length > 0).ToArray();
         }
     }
 }

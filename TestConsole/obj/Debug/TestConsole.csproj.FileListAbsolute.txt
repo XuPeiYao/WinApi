@@ -1,0 +1,10 @@
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\TestConsole\bin\Debug\WinApi.dll
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\TestConsole\bin\Debug\RobertLw.Win32.dll
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\TestConsole\bin\Debug\WinApi.pdb
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\TestConsole\bin\Debug\RobertLw.Win32.pdb
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\TestConsole\obj\Debug\TestConsole.pdb

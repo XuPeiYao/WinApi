@@ -1,0 +1,7 @@
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\WinApi\bin\Debug\WinApi.dll
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\WinApi\bin\Debug\WinApi.pdb
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\WinApi\bin\Debug\RobertLw.Win32.dll
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\WinApi\bin\Debug\RobertLw.Win32.pdb
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\WinApi\obj\Debug\WinApi.csprojResolveAssemblyReference.cache
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\WinApi\obj\Debug\WinApi.dll
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\WinApi\obj\Debug\WinApi.pdb

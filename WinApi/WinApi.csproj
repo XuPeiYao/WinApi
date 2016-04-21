@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User\Window.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Win32\RobertLw.Win32.csproj">
