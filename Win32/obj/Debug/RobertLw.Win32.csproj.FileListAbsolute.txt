@@ -1,0 +1,5 @@
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\Win32\bin\Debug\RobertLw.Win32.dll
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\Win32\bin\Debug\RobertLw.Win32.pdb
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\Win32\obj\Debug\RobertLw.Win32.csprojResolveAssemblyReference.cache
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\Win32\obj\Debug\RobertLw.Win32.dll
+C:\Users\XuPeiYao\Documents\GitHub\WinApi\Win32\obj\Debug\RobertLw.Win32.pdb

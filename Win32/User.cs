@@ -2508,6 +2508,10 @@ namespace RobertLw.Win32
         public static extern int EnumChildWindows(IntPtr hwndParent, ref int lpEnumFunc, int lParam);
 
         [DllImport("user32")]
+        public static extern int EnumChildWindows(IntPtr hwndParent,EnumWindowsProc lpEnumFunc , int lParam);
+
+
+        [DllImport("user32")]
         public static extern int EnumClipboardFormats(int wFormat);
 
         [DllImport("user32")]
@@ -2584,6 +2588,9 @@ namespace RobertLw.Win32
 
         [DllImport("user32")]
         public static extern int GetClassName(IntPtr hwnd, string lpClassName, int nMaxCount);
+
+        [DllImport("user32")]
+        public static extern int GetClassName(IntPtr hwnd, StringBuilder lpClassName, int nMaxCount);
 
         [DllImport("user32")]
         public static extern int GetClassWord(IntPtr hwnd, int nIndex);
