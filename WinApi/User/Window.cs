@@ -102,6 +102,10 @@ namespace WinApi.User {
         #endregion
 
 
+        public override int GetHashCode() {
+            return this.Id.ToInt32();
+        }
+
         public override bool Equals(object obj) {
             Window Obj = obj as Window;
             if (obj == null) return false;
