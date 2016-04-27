@@ -16,10 +16,10 @@ namespace RobertLw.Win32
     // ReSharper disable InconsistentNaming
     public struct RECT
     {
-        public int Bottom;
         public int Left;
-        public int Right;
         public int Top;
+        public int Right;
+        public int Bottom;
     }
 
     public struct POINT

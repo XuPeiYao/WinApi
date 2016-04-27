@@ -41,6 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User\Position.cs" />
+    <Compile Include="User\Size.cs" />
     <Compile Include="User\Window.cs" />
   </ItemGroup>
   <ItemGroup>
